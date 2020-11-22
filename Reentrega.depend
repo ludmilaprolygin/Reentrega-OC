@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1605226874 source:c:\users\mlpro\documents\universidad\computacion\2 - organización de computadoras\práctica\programas\reentrega\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1605135417 c:\users\mlpro\documents\universidad\computacion\2 - organización de computadoras\práctica\programas\reentrega\lista.h
+
+1605226924 source:c:\users\mlpro\documents\universidad\computacion\2 - organización de computadoras\práctica\programas\reentrega\evaluador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"mapeo.h"
+	"math.h"
+
+1605135439 c:\users\mlpro\documents\universidad\computacion\2 - organización de computadoras\práctica\programas\reentrega\mapeo.h
+	"lista.h"
+
+1605226856 source:c:\users\mlpro\documents\universidad\computacion\2 - organización de computadoras\práctica\programas\reentrega\mapeo.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"mapeo.h"
+
